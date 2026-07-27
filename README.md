@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI** & **Digtial Marketing**
 
-- 🌱 I’m currently learning **Conversion Rate Optimization**
+- 🌱 I’m currently learning **GenAI Application, AI Automation, Agentic AI, RAG, MicroSaas**
 
 - 👯 I’m looking to collaborate **with other marketers, researchers and creators**
 
