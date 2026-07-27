@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwakar</h1>
-<h3 align="center">A passionate self taught Data Analyst</h3>
+<h3 align="center">A passionate GenAI</h3>
 
-- 🔭 I’m currently working on **Data Analyst** & **Digtial Marketing**
+- 🔭 I’m currently working on **AI** & **Digtial Marketing**
 
 - 🌱 I’m currently learning **Conversion Rate Optimization**
 
