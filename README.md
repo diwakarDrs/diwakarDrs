@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GenAI Application, AI Automation, Agentic AI, RAG, MicroSaas**
 
-- 👯 I’m looking to collaborate **with other marketers, researchers and creators**
+- 👯 I’m looking to collaborate **with marketers, business owners and creators**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diwakarDrs](https://github.com/diwakarDrs)
 
