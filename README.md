@@ -1,27 +1,178 @@
-<h1 align="center">Hi 👋, I'm Diwakar</h1>
-<h3 align="center">A passionate GenAI</h3>
+<h1 align="center">Hi 👋, I'm Diwakar Raja</h1>
 
-- 🔭 I’m currently working on **AI** & **Digtial Marketing**
+<h3 align="center">GenAI Engineer | AI Marketing Strategist | Building AI Applications & Automations</h3>
 
-- 🌱 I’m currently learning **GenAI Application, AI Automation, Agentic AI, RAG, MicroSaas**
-
-- 👯 I’m looking to collaborate **with marketers, business owners and creators**
-
-- 👨‍💻 All of my projects are available at [https://github.com/diwakarDrs](https://github.com/diwakarDrs)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **diwakarraja@gmail.com**
-
-- ⚡ Fun fact **I love to read books and listen to music**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/diwakarraja1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diwakarraja1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-s-257b6b146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raja-s-257b6b146/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/diwakarraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="diwakarraja" height="30" width="40" /></a>
+<p align="center">
+I'm passionate about building AI-powered applications, automating business workflows, and helping brands grow with AI, SEO, and Digital Marketing.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **GenAI Applications, AI Agents, and Business Automations**
+
+- 🌱 Currently learning
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Agentic AI
+  - AI Automation
+  - MCP
+  - Prompt Engineering
+  - Vector Databases
+  - LangChain
+  - CrewAI
+  - n8n
+  - Micro SaaS
+
+- 💼 Working on
+  - AI Marketing
+  - AI SEO (AEO & GEO)
+  - AI Visibility
+  - AI-powered Lead Generation
+  - Marketing Automation
+  - AI Content Systems
+
+- 🤝 Looking to collaborate with
+  - AI Startups
+  - SaaS Founders
+  - Digital Marketing Agencies
+  - Business Owners
+  - Open Source Projects
+
+- 💬 Ask me about
+  - Python
+  - GenAI
+  - AI Automation
+  - AI Agents
+  - Prompt Engineering
+  - SEO
+  - AI Marketing
+  - Digital PR
+  - Brand Visibility
+
+- 📫 Reach me at
+
+  **diwakarraja@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### AI & GenAI
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+**Working with**
+
+- OpenAI API
+- Gemini API
+- Claude
+- LangChain
+- LangGraph
+- CrewAI
+- MCP
+- RAG
+- Vector Databases
+- ChromaDB
+- Pinecone
+- FAISS
+- Ollama
+- Hugging Face
+- Streamlit
+- FastAPI
+
+### AI Marketing
+
+- AI SEO
+- AEO
+- GEO
+- Digital PR
+- Brand Mentions
+- Link Building
+- Content Strategy
+- Marketing Automation
+- n8n
+- Make
+- Zapier
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 AI Chatbots
+- 🧠 RAG Applications
+- 🔎 AI Search Optimization Tools
+- 📄 Document Q&A Systems
+- 📊 AI Marketing Dashboards
+- ⚡ Workflow Automations
+- 🌐 AI-powered Web Applications
+
+---
+
+## 🎯 2026 Goals
+
+- Build 25+ GenAI Projects
+- Launch AI Micro SaaS Products
+- Master Agentic AI
+- Contribute to Open Source AI Projects
+- Share AI tutorials and case studies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/raja101" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="35"/>
+</a>
+
+<a href="https://twitter.com/diwakarraja1" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="35"/>
+</a>
+
+<a href="https://github.com/diwakarDrs" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="35"/>
+</a>
+
+<a href="https://www.hackerrank.com/diwakarraja" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="35"/>
+</a>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=diwakarDrs&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarDrs&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarDrs&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Build solutions that save people time. AI is the multiplier."
 
